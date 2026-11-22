@@ -1,13 +1,2 @@
 ## About Me
-
-<!--
-**hamoonyoung/hamoonyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-🔭 I’m currently teaching music technology courses at NYU.
-🌱 I’m always trying to learn something new every day.
-👯 I’m open to collaborating on projects in music technology, creative coding, audio, and interactive media.
-😄 Pronouns: he/him
-⚡ Fun fact: It's a secret… 🤫
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+Thinking about the purpose of life makes me reflect on what I truly want to do with the limited time I have. I often feel that bringing together and consolidating the things I do, with a clearer sense of direction, might be a good first step toward moving forward and focusing on what I really want to pursue. Just a thought...
